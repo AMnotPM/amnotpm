@@ -19,7 +19,7 @@ Amante de las buenas costumbres y la tecnología.
 ## 💬 Contacto
 - Correo electrónico: tu.correo@ejemplo.com
 - Sitio web: tu-sitio-web.com
-- Twitter: [@tu_usuario](https://twitter.com/MiguelLafaurie)
+- Twitter: [@MiguelLafaurie](https://twitter.com/MiguelLafaurie)
 
 ## 📊 Estadísticas de GitHub
 - Número de repositorios
