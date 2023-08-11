@@ -17,8 +17,8 @@ Amante de las buenas costumbres y la tecnología.
 - Habilidad 3
 
 ## 💬 Contacto
-- Correo electrónico: tu.correo@ejemplo.com
-- Sitio web: tu-sitio-web.com
+- Correo electrónico: amiguel.091@protonmail.com
+- Sitio web: amnotpm.github.io
 - Twitter: [@MiguelLafaurie](https://twitter.com/MiguelLafaurie)
 
 ## 📊 Estadísticas de GitHub
