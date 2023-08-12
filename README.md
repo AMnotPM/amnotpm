@@ -10,8 +10,9 @@ I am a recent graduate with a bachelor's degree in information science. I have a
 * 🖥️  See my portfolio at [My Personal Webpage](http://amnotpm.github.io/)
 * 🧠  I'm learning The Basics of C# and General development skills
 
-<a href="https://www.x.com/MiguelLafaurie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MiguelLafaurie?logo=twitter&style=for-the-badge&color=6366f1&labelColor=ffffff"
+<a href="https://www.x.com/MiguelLafaurie" target="_blank" rel="noreferrer">
+<img
+    src="https://img.shields.io/twitter/follow/MiguelLafaurie?logo=twitter&style=for-the-badge&color=6366f1&labelColor=ffffff"
 /></a>
 
 ### Skills
@@ -115,7 +116,87 @@ src="https://img.shields.io/twitter/follow/MiguelLafaurie?logo=twitter&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/amnotpm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amnotpm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://amnotpm.github.io/rss.xml" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/MiguelLafaurie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/amnotpm" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/amnotpm"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a href="https://amnotpm.github.io/rss.xml" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a href="https://www.x.com/MiguelLafaurie" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+</p>
+
 
 ### Badges
 
