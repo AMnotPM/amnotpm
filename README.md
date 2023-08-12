@@ -138,6 +138,7 @@ I am a recent graduate with a bachelor's degree in information science. I have a
       />
     </picture>
   </a>
+    <img width="12" />
   <a
     href="https://www.linkedin.com/in/amnotpm"
     target="_blank"
@@ -158,6 +159,7 @@ I am a recent graduate with a bachelor's degree in information science. I have a
       />
     </picture>
   </a>
+    <img width="12" />
   <a href="https://amnotpm.github.io/rss.xml" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
@@ -174,6 +176,7 @@ I am a recent graduate with a bachelor's degree in information science. I have a
       />
     </picture>
   </a>
+    <img width="12" />
   <a href="https://www.x.com/MiguelLafaurie" target="_blank" rel="noreferrer">
     <picture>
       <source
